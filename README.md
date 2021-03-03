@@ -7,3 +7,6 @@
 - 🤖  Algorithms and Machine Learning!
 - 👾  Hackathons!
 - 💬  Ask me about anything!
+
+## GitHub Statistics
+![](https://github-readme-stats.vercel.app/api?username=eric-prog)
