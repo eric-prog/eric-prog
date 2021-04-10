@@ -49,6 +49,7 @@ I enjoy going outside and enjoying the weather whever possible. This includes:
 - ♛ Chess
 - 🖋️ Poetry
 - 💻 Hackathons! </br>
+
 Also been doing a lot of calisthenics.
 
 ## Github Stats
