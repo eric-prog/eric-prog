@@ -12,14 +12,14 @@ Hello! My name is Eric Sheen and I love programming and exploring new technologi
 
 ### Skills Over The Years
 ##### Programming Languages
-<img src="./images/javascript.svg" width="28" height="28">
-<img src="./images/typescript.svg" width="28" height="28">
-<img src="./images/java.svg" width="28" height="28">
-<img src="./images/python.svg" width="28" height="28">
-<img src="./images/c++.svg" width="28" height="28">
-<img src="./images/ruby.svg" width="28" height="28">
-<img src="./images/html.svg" width="28" height="28">
-<img src="./images/css3.svg" width="28" height="28">
+<img align="left" src="./images/javascript.svg" width="28" height="28">
+<img align-items="left" src="./images/typescript.svg" width="28" height="28">
+<img align="left" src="./images/java.svg" width="28" height="28">
+<img align="left" src="./images/python.svg" width="28" height="28">
+<img align="left" src="./images/c++.svg" width="28" height="28">
+<img align="left" src="./images/ruby.svg" width="28" height="28">
+<img align="left" src="./images/html.svg" width="28" height="28">
+<img align="left" src="./images/css3.svg" width="28" height="28">
 
 #####  Databases
 <img src="./images/mongodb.svg" width="28" height="28">
