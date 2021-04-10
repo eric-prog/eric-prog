@@ -42,7 +42,14 @@ Hello! My name is Eric Sheen and I love programming and exploring new technologi
 <img align="left" src="./images/raspberry-pi.svg" width="28" height="28"><br/>
 
 ## Hobbies/Interests!
-I enjoy going outside and enjoying the weather whever possible. This includes 🏈 <u>American football</u>, 🏀 <u>Basketball</u>, 🏃‍♂️ <u>Track</u>, ♛ <u>Chess</u>, 🖋️ <u>Poetry</u>, and 💻 <u>Hackathons</u>! 
+I enjoy going outside and enjoying the weather whever possible. This includes:
+- 🏈 American football
+- 🏀 Basketball
+- 🏃‍♂️ Track
+- ♛ Chess
+- 🖋️ Poetry
+- 💻 Hackathons! </br>
+Also been doing a lot of calisthenics.
 
 ## Github Stats
 
