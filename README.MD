@@ -13,7 +13,7 @@ Hello! My name is Eric Sheen and I love programming and exploring new technologi
 ### Skills Over The Years
 ##### Programming Languages
 <img align="left" src="./images/javascript.svg" width="28" height="28">
-<img align-items="left" src="./images/typescript.svg" width="28" height="28">
+<img align="left" src="./images/typescript.svg" width="28" height="28">
 <img align="left" src="./images/java.svg" width="28" height="28">
 <img align="left" src="./images/python.svg" width="28" height="28">
 <img align="left" src="./images/c++.svg" width="28" height="28">
