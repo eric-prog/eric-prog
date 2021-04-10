@@ -19,27 +19,27 @@ Hello! My name is Eric Sheen and I love programming and exploring new technologi
 <img align="left" src="./images/c++.svg" width="28" height="28">
 <img align="left" src="./images/ruby.svg" width="28" height="28">
 <img align="left" src="./images/html.svg" width="28" height="28">
-<img align="left" src="./images/css3.svg" width="28" height="28">
+<img align="left" src="./images/css3.svg" width="28" height="28"><br/>
 
 #####  Databases
-<img src="./images/mongodb.svg" width="28" height="28">
-<img src="./images/mysql.svg" width="28" height="28">
-<img src="./images/firebase.svg" width="28" height="28">
+<img align="left" src="./images/mongodb.svg" width="28" height="28">
+<img align="left" src="./images/mysql.svg" width="28" height="28">
+<img align="left" src="./images/firebase.svg" width="28" height="28"><br/>
 
 #####  Tools/Frameworks
-<img src="./images/django.svg" width="28" height="28">
-<img src="./images/android.svg" width="28" height="28">
-<img src="./images/react.svg" width="28" height="28">
-<img src="./images/node.png" width="28" height="28">
-<img src="./images/graphql.svg" width="28" height="28">
-<img src="./images/flask.svg" width="28" height="28">
-<img src="./images/git.svg" width="28" height="28">
-<img src="./images/jira.svg" width="28" height="28">
-<img src="./images/confluence.svg" width="28" height="28">
+<img align="left" src="./images/django.svg" width="28" height="28">
+<img align="left" src="./images/android.svg" width="28" height="28">
+<img align="left" src="./images/react.svg" width="28" height="28">
+<img align="left" src="./images/node.png" width="28" height="28">
+<img align="left" src="./images/graphql.svg" width="28" height="28">
+<img align="left" src="./images/flask.svg" width="28" height="28">
+<img align="left" src="./images/git.svg" width="28" height="28">
+<img align="left" src="./images/jira.svg" width="28" height="28">
+<img align="left" src="./images/confluence.svg" width="28" height="28"><br/>
 
 ##### IOT
-<img src="./images/arduino.svg" width="28" height="28">
-<img src="./images/raspberry-pi.svg" width="28" height="28">
+<img align="left" src="./images/arduino.svg" width="28" height="28">
+<img align="left" src="./images/raspberry-pi.svg" width="28" height="28"><br/>
 
 ## Hobbies/Interests!
 I enjoy going outside and enjoying the weather whever possible. This includes 🏈 <u>American football</u>, 🏀 <u>Basketball</u>, 🏃‍♂️ <u>Track</u>, ♛ <u>Chess</u>, 🖋️ <u>Poetry</u>, and 💻 <u>Hackathons</u>! 
