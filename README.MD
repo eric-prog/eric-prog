@@ -2,11 +2,6 @@
 
 ![Eric Sheen](./images/Eric_Sheen.png)
 
-<p align="center">
-    <img src="./images/instagram.svg" width="28" height="28">
-    <img src="./images/linkedin.svg" width="28" height="28">
-</p>
-
 ## Who am I? 
 Hello! My name is Eric Sheen and I love programming and exploring new technologies! Been programming for <5 years! Started off creating android apps, creating an app that downloads and saves songs, then found a deep interest in web development. Ever since I have developed web apps ranging from simple personal websites to full-stack web apps created in Django and/or ReactJS. I also enjoy working with algorithms in Python and creating games in Java.
 
