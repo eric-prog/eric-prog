@@ -8,7 +8,7 @@
 </p>
 
 ## Who am I? 
-Hello! My name is Eric Sheen and I love programming and exploring new technologies! Been programming for <5 years! Started off creating android apps, creating a song saving application, then found deep interest in web development. Ever since I have developed web apps ranging from simple personal websites to full stack web apps created in Django and/or ReactJS. I also enjoy working with algorithms in Python and creating games in Java. 
+Hello! My name is Eric Sheen and I love programming and exploring new technologies! Been programming for <5 years! Started off creating android apps, creating an app that downloads and saves songs, then found a deep interest in web development. Ever since I have developed web apps ranging from simple personal websites to full-stack web apps created in Django and/or ReactJS. I also enjoy working with algorithms in Python and creating games in Java.
 
 ### Skills Over The Years
 ##### Programming Languages
