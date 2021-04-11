@@ -32,7 +32,7 @@ Hello! My name is Eric Sheen and I love programming and exploring new technologi
 <img align="left" src="./images/jira.svg" width="28" height="28">
 <img align="left" src="./images/confluence.svg" width="28" height="28"><br/>
 
-##### IOT
+##### IoT
 <img align="left" src="./images/arduino.svg" width="28" height="28">
 <img align="left" src="./images/raspberry-pi.svg" width="28" height="28"><br/>
 
