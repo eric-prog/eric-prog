@@ -55,7 +55,8 @@ Also been doing a lot of calisthenics.
 
 ## Current Projects
 - Summerly ⭐
-- AstericWeb ⭐
+- AstericWeb (5 subprojects) ⭐
+- Code Challenge ⭐
 
 ## Contact
 For business inquiries or connecting\
