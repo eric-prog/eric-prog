@@ -61,5 +61,5 @@ Also been doing a lot of calisthenics.
 
 ## Contact
 For business inquiries or connecting\
-Email: eric.sprog@gmail.com
+Email: eric.sprog@gmail.com\
 Personal website: https://ericsheen.tech/
