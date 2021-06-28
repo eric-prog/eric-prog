@@ -55,7 +55,7 @@ Also been doing a lot of calisthenics.
 ## Current Projects
 - Summerly ⭐
 - Calendarly ⭐
-- Code Challenge ⭐
+- New personal website coming soon... ⭐ 
 
 ## Contact
 For business inquiries or connecting\
