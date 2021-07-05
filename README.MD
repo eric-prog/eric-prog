@@ -53,7 +53,7 @@ Also been doing a lot of calisthenics.
 </p>
 
 ## Current Projects
-- studE ⭐
+- Summerly (rebranded to studE) ⭐
 - Calendarly ⭐
 - Soon going to work on Presently 
 - New personal website coming soon... ⭐ 
