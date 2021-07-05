@@ -53,8 +53,9 @@ Also been doing a lot of calisthenics.
 </p>
 
 ## Current Projects
-- Summerly ⭐
+- studE ⭐
 - Calendarly ⭐
+- Soon going to work on Presently 
 - New personal website coming soon... ⭐ 
 
 ## Contact
