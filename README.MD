@@ -56,6 +56,8 @@ Also been doing a lot of calisthenics.
 - Working on studE ⭐
 - New personal website coming soon... ⭐ 
 
+* Most repos private
+
 ## Contact
 For business inquiries or connecting\
 Email: eric.sprog@gmail.com\
