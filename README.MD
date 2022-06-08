@@ -53,7 +53,7 @@ Also been doing a lot of calisthenics.
 </p>
 
 ## Current Projects
-- Working on studE ⭐
+- Working on studye ⭐
 - New personal website coming soon... ⭐ 
 
 * Most repos private
