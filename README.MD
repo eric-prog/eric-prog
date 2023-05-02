@@ -35,7 +35,7 @@ My name's Eric Sheen, and I love programming and exploring new technologies! I h
 <img align="left" src="./images/arduino.svg" width="28" height="28">
 <img align="left" src="./images/raspberry-pi.svg" width="28" height="28"><br/>
 
-## Contact 📞
+### Contact 📞
 For business inquiries or connecting\
 Email: eric.sprog@gmail.com\
 Personal website: https://ericsheen.tech/
