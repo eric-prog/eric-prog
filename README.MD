@@ -35,25 +35,6 @@ My name's Eric Sheen, and I love programming and exploring new technologies! I h
 <img align="left" src="./images/arduino.svg" width="28" height="28">
 <img align="left" src="./images/raspberry-pi.svg" width="28" height="28"><br/>
 
-## Hobbies/Interests! ✨
-I enjoy going outside and enjoying the weather whenever possible as well as a lot of other stuff. This includes:
-- American football 🏈 
-- Basketball 🏀 
-- Track 🏃‍♂️ 
-- Chess ♛ 
-- Poetry 🖋️ 
-- Hackathons! 💻 </br>
-
-## Github Stats 📊
-
-<p align="center">
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=eric-prog&hide_border=true&show_icons=true&include_all_commits=false&count_private=true&line_height=24&text_color=ffffff&icon_color=ffffff&bg_color=000&title_color=ffffff"/> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eric-prog&hide=html&hide_border=true&card_width=320&layout=compact&langs_count=7&text_color=ffffff&icon_color=ffffff&bg_color=000&title_color=ffffff"/>
-</p>
-
-## Startups 🚀
-- Studye 📚
-- Totazi 🦄
-
 ## Contact 📞
 For business inquiries or connecting\
 Email: eric.sprog@gmail.com\
