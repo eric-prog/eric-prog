@@ -37,5 +37,5 @@ My name's Eric Sheen, and I love programming and exploring new technologies! I h
 
 ### Contact 📞
 For business inquiries or connecting\
-Email: eric.sprog@gmail.com\
-Personal website: https://ericsheen.tech/
+Email: easheen [@] uwaterloo.ca\
+Personal website: https://ericsheen.netlify.app/
