@@ -21,6 +21,7 @@ My name's Eric Sheen, and I love programming and exploring new technologies! I h
 <img align="left" src="./images/firebase.svg" width="28" height="28"><br/>
 
 #####  Tools/Frameworks
+<img align="left" src="./images/nextjs.png" width="28" height="28">
 <img align="left" src="./images/django.svg" width="28" height="28">
 <img align="left" src="./images/android.svg" width="28" height="28">
 <img align="left" src="./images/react.svg" width="28" height="28">
