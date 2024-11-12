@@ -1,5 +1,4 @@
-Video generation models 
+Agents + synthetic data gen
 
 Discord: infinit3e\
-Email: easheen@uwaterloo.ca\
-Personal website: https://ericsheen.tech/
+Email: easheen [@] uwaterloo.ca\
